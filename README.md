@@ -1,0 +1,2 @@
+# janczesky_dane_graczy
+janczesky_dane_graczy
