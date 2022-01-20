@@ -6,3 +6,5 @@ Skrypt podaje informacje o graczu np. hex, rockstar id,steam id
 
 ## Pomoc ##
 Jak coś ci nie działa to pisz na pv xJanczesky#1338
+
+## Autorstwa xJanczesky#1338 ##
